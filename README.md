@@ -1,0 +1,5 @@
+![TotalInvoiceAmount](https://github.com/hannahmaurer/Patient-Billing/assets/159860800/038e472a-30dd-4876-815c-e0f5a168d68b)
+![TimeOfVisit](https://github.com/hannahmaurer/Patient-Billing/assets/159860800/9cd835b1-aa64-4e41-a4cb-9ac37e6629fc)
+![ReasonType](https://github.com/hannahmaurer/Patient-Billing/assets/159860800/afbe5289-7f91-4b7e-b409-1434ae31f206)
+![ReasonForWalkInVisit](https://github.com/hannahmaurer/Patient-Billing/assets/159860800/85fb85e2-1963-47ee-8c9b-c3471faf18c6)
+![LocationOfReasonForVisit](https://github.com/hannahmaurer/Patient-Billing/assets/159860800/373fbba0-f23d-4536-89bb-3d998bb81590)
